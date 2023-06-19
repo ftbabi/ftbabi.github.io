@@ -23,3 +23,14 @@ arXiv preprint, 2023
 **Yidi Shao**, [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/index.html), [Bo Dai](https://daibo.info/)
 European Conference on Computer Vision (ECCV), 2022  
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790539.pdf)] [[Project Page](https://www.mmlab-ntu.com/project/tie/index.html)] [[Code](https://github.com/ftbabi/TIE_ECCV2022.git)]
+
+<!-- # Professional Service -->
+
+# Honors and Awards
+* NTU Research Scholarship, 2021
+* Dongliang Special Scholarship, 2019
+* National Scholarship, 2017
+
+# Teaching
+* Teaching Assistant: SC1015 Introduction to Data Science & Artificial Intelligence, NTU, 2022 Fall
+* Teaching Assistant: SC1013 Physics for Computing, NTU, 2022, Spring
