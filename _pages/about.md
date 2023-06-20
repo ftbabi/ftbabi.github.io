@@ -24,7 +24,8 @@ arXiv preprint, 2023
 European Conference on Computer Vision (ECCV), 2022  
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790539.pdf)] [[Project Page](https://www.mmlab-ntu.com/project/tie/index.html)] [[Code](https://github.com/ftbabi/TIE_ECCV2022.git)]
 
-<!-- # Professional Service -->
+# Professional Service
+* Conference Reviewer: NeurIPS 2023
 
 # Honors and Awards
 * NTU Research Scholarship, 2021
