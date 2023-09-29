@@ -15,8 +15,8 @@ Yidi Shao is a Ph.D. student at the [School of Computer Science and Engineering]
 <img src='./images/layersnet.gif' width="240" hspace="10" height="160" align="left"/>
 **Towards Multi-Layered 3D Garments Animation**  
 **Yidi Shao**, [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/index.html), [Bo Dai](https://daibo.info/)  
-arXiv preprint, 2023  
-[[Paper](https://arxiv.org/pdf/2305.10418)] [[Project Page](https://mmlab-ntu.github.io/project/layersnet/index.html)]  
+International Conference on Computer Vision (ICCV), 2023  
+[[Paper](https://arxiv.org/pdf/2305.10418)] [[Project Page](https://mmlab-ntu.github.io/project/layersnet/index.html)] [[Code](https://github.com/ftbabi/LayersNet_ICCV2023.git)] [[Dataset](https://github.com/ftbabi/D-LAYERS_ICCV2023.git)]
 
 <img src='./images/tie.gif' width="240" hspace="10" height="160" align="left"/>
 **Transformer with Implicit Edges for Particle-based Physics Simulation**  
