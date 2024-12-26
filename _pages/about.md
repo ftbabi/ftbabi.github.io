@@ -12,6 +12,18 @@ Yidi Shao is a Ph.D. student at the [School of Computer Science and Engineering]
 
 # Publications
 <!-- ====== -->
+<img src='./images/gausim.gif' width="240" hspace="10" align="left"/>
+**GauSim: Registering Elastic Objects into Digital World by Gaussian Simulator**  
+**Yidi Shao**, [Mu Huang](https://wrioste.github.io/), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/index.html), [Bo Dai](https://daibo.info/)  
+arXiv preprint, 2024             
+[[Paper](https://arxiv.org/abs/2412.17804)] [[Project Page](https://www.mmlab-ntu.com/project/gausim/index.html)] [[Code (Coming Soon)]()]
+
+<img src='./images/eunet.gif' width="240" hspace="10" align="left"/>
+**Learning 3D Garment Animation from Trajectories of A Piece of Cloth**  
+**Yidi Shao**, [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/index.html), [Bo Dai](https://daibo.info/)  
+Neural Information Processing Systems (NeurIPS), 2024
+[[Paper](https://openreview.net/pdf?id=yeFx5NQmr7)] [[Project Page]()] [[Code](https://github.com/ftbabi/EUNet_NeurIPS2024.git)]
+
 <img src='./images/layersnet.gif' width="240" hspace="10" height="160" align="left"/>
 **Towards Multi-Layered 3D Garments Animation**  
 **Yidi Shao**, [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/index.html), [Bo Dai](https://daibo.info/)  
@@ -25,7 +37,7 @@ European Conference on Computer Vision (ECCV), 2022
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790539.pdf)] [[Project Page](https://www.mmlab-ntu.com/project/tie/index.html)] [[Code](https://github.com/ftbabi/TIE_ECCV2022.git)]
 
 # Professional Service
-* Conference Reviewer: NeurIPS 2023
+* Conference Reviewer: NeurIPS, EG, ICLR, ICML, CVPR, AAAI
 
 # Honors and Awards
 * NTU Research Scholarship, 2021
